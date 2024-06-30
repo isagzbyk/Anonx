@@ -24,7 +24,7 @@ def stats_buttons(_, status):
             [
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"],
-                    callback_data="close",
+                    callback_data="kapat",
                 ),
             ],
         ]
@@ -42,7 +42,7 @@ def back_stats_buttons(_):
                 ),
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"],
-                    callback_data="close",
+                    callback_data="kapat",
                 ),
             ],
         ]
