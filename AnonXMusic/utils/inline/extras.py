@@ -19,7 +19,7 @@ def close_markup(_):
             [
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"],
-                    callback_data="close",
+                    callback_data="kapat",
                 ),
             ]
         ]
