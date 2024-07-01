@@ -37,7 +37,7 @@ answer.extend(
         InlineQueryResultArticle(
             title="Lᴏᴏᴩ",
             description="ʟᴏᴏᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ ᴛʀᴀᴄᴋ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-           https://iili.io/JQdc5rb.jpg",
+          thumb_url= "https://iili.io/JQdc5rb.jpg",
             input_message_content=InputTextMessageContent("/loop 3"),
         ),
     ]
