@@ -140,7 +140,7 @@ cplay_6 : "» Bu sohbeti {0} kanalı ile bağlamak için <b>sahibi</b> olmanız 
 cplay_7 : "» Kanal oynatma devre dışı bırakıldı."
 
 
-play_1 : "❤️‍🔥"
+play_1 : "❤️‍🔥" , "Emir Gerçekleştiriliyor...." , "❤️‍🔥"
 play_2 : "<b>➻ Kanal Oynatma Modu</b>\n\nİşleniyor, lütfen bekleyin...\n\n<b>Bağlı Kanal:</b> {0}"
 play_3 : "» Sorgu işleme başarısız oldu."
 play_4 : "<b>Yalnızca Yöneticiler Oynatabilir</b>\nBu sohbetin yöneticileri yalnızca oynatabilir\n\nOynatma modunu /playmode ile değiştirebilirsiniz."
