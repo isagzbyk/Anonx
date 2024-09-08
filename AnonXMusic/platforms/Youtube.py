@@ -11,7 +11,6 @@ from youtubesearchpython.__future__ import VideosSearch
 from AnonXMusic.utils.database import is_on_off
 from AnonXMusic.utils.formatters import time_to_seconds
 
-
 async def shell_cmd(cmd):
     proc = await asyncio.create_subprocess_shell(
         cmd,
@@ -27,7 +26,6 @@ async def shell_cmd(cmd):
             print(f"Shell command error: {error_msg}")
             return error_msg
     return out.decode("utf-8")
-
 
 class YouTubeAPI:
     def __init__(self):
